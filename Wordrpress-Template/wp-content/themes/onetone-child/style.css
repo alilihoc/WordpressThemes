@@ -1,0 +1,13 @@
+/*
+Theme Name: Onetone-Child
+Description: Theme enfant Onetone
+Template: onetone
+*/
+section.home-section-8 {
+    background-color: rgb(34, 34, 34);
+    background-image: none;
+}
+
+h2.section_title_8 {
+    color: #000000;
+}

@@ -1,0 +1,17 @@
+/*
+Theme Name: Sparkling Personnalisé
+Template: sparkling
+
+ */
+
+form p label{
+    width: 100%;
+}
+
+form input {
+    width: 100%;
+}
+
+h1{
+    color: red;
+}
